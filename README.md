@@ -111,5 +111,5 @@ The University of Texas at Austin
 ### Connect With Me
 
 - 🌐 Website: [Personal Website](https://www.cs.utexas.edu/~joo673/)
-- 💻 GitHub: [GitHub Profile](INSERT_GITHUB_URL)
-- 💼 LinkedIn: [LinkedIn Profile](www.linkedin.com/in/joyolowogbade)
+- 💻 GitHub: [GitHub Profile](https://github.com/olowo-joy)
+- 💼 LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/joyolowogbade)
