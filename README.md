@@ -51,8 +51,7 @@ utcs-portfolio/
 │   └── index.html
 ├── css/
 ├── js/
-├── images/
-└── README.md
+└── images/
 
 ## 🎯 Skills Demonstrated
 
