@@ -110,6 +110,6 @@ The University of Texas at Austin
 
 ### Connect With Me
 
-- 🌐 Website: [Personal Website](INSERT_WEBSITE_URL)
+- 🌐 Website: [Personal Website](https://www.cs.utexas.edu/~joo673/)
 - 💻 GitHub: [GitHub Profile](INSERT_GITHUB_URL)
-- 💼 LinkedIn: [LinkedIn Profile](INSERT_LINKEDIN_URL)
+- 💼 LinkedIn: [LinkedIn Profile](www.linkedin.com/in/joyolowogbade)
